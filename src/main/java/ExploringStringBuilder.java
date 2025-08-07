@@ -70,6 +70,8 @@ public class ExploringStringBuilder {
 
 		String finalStatus = sb.toString();
 
+		sb.append(" - Approved");
+
 		System.out.println("StringBuilder: " + sb);
 		System.out.println("Final String: " + finalStatus);
 	}

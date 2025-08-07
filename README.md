@@ -100,10 +100,10 @@ Developed by: Baticos, Andric Quinn S.
 
 ![Screenshot Proof](/ss/e7-cs.png?raw=true "exercise-7-code-snippet")
 
-**Prediction**: _This code will output "Status: Pending" for both println._
+**Prediction**: _This code will output "Status: Pending - Approved" for sb while "Status: Pending"._
 
 **Output**
 
 ![Screenshot Proof](/ss/e7-o.png?raw=true "exercise-7-output")
 
-**Observation**: _As expected, the program outputted "Status: Pending" for both._
+**Observation**: _As expected, the program outputted "Status: Pending - Approved" and "Status: Pending" respectively._
